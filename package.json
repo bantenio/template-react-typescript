@@ -1,16 +1,16 @@
 {
-    "name": "react-typescript-boilerplate",
+    "name": "template-react-typescript",
     "version": "1.0.0",
     "description": "An awesome boilerplate for react + typescript development",
     "private": true,
     "author": {
-        "name": "YuTengjing",
-        "url": "https://github.com/tjx666",
-        "email": "ytj2713151713@gmail.com"
+        "name": "BanTenio",
+        "url": "https://github.com/bantenio",
+        "email": "bantenio@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:tjx666/react-typescript-boilerplate.git"
+        "url": "git@github.com:bantenio/template-react-typescript.git"
     },
     "license": "MIT",
     "scripts": {
